@@ -1,0 +1,43 @@
+﻿body {
+    margin: 0;
+}
+
+.header {
+    border: none;
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: Arial;
+}
+.footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.red {
+    height: 690px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    float: left;
+    margin-right: 30px;
+    font-family: Arial;
+    padding-top: 10px;
+}
+.white {
+    font-family: Arial;
+    height: 100%;
+    width: 540px;
+    background-color: white;
+    padding-top: 30px;
+    display: inline-block;
+    text-align: justify;
+}
